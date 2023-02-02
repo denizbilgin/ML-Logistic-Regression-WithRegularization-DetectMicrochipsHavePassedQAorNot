@@ -5,10 +5,10 @@ A Machine Learning:Logistic Regression algorithm with Regularization about "Dete
 These graphs are also output of the code.
 
 ### The initial graph
-![The initial graph](https://github.com/denizbilgin/ML-Logistic-Regression-CanStudentAttendTheUniversity-Algoritm/blob/main/imgs/initialGraph.png)
+![The initial graph](https://github.com/denizbilgin/ML-Logistic-Regression-With-Regularization-DetectMicrochipsHavePassedQAorNot/blob/main/imgs/initialGraph.png)
 
 ### The graph with decision boundary
-![The graph with decision boundary](https://github.com/denizbilgin/ML-Logistic-Regression-CanStudentAttendTheUniversity-Algoritm/blob/main/imgs/graphWithDecisionBoundary.png)
+![The graph with decision boundary](https://github.com/denizbilgin/ML-Logistic-Regression-With-Regularization-DetectMicrochipsHavePassedQAorNot/blob/main/imgs/graphWithDecisionBoundary.png)
 
 The algorithm makes predictions by that decision boundary.
 
