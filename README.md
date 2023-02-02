@@ -12,4 +12,4 @@ These graphs are also output of the code.
 
 The algorithm makes predictions by that decision boundary.
 
-The accuracy of the algorithm is 92%
+The accuracy of the algorithm is 82.2%
