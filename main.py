@@ -17,7 +17,7 @@ import math
 # veri kümesine sahipsiniz.
 
 # Loading the data
-file = open("./ex2data2.txt","r")
+file = open("./data.txt","r")
 x_trainArray = []
 y_trainArray = []
 for aline in file:
